@@ -58,7 +58,7 @@ mvn spring-boot:run
 ### Host
 **HOST**  - http://localhost:8080
 
-![image](/images/AppRunningStatus.jpg)
+![image](/images/AppRunningState.jpg)
 
 -------------------------------
 
@@ -71,7 +71,7 @@ mvn spring-boot:run
 
 Customer Table
 
-![image](/images/H2DB-CustomerTable.jpg)
+![image](/images/H2DB-CutomerTable.jpg)
 
 
 Transaction Table
@@ -173,20 +173,20 @@ All Rewards
 
 Rewards by Customer Id
 
-![image](/images/RewardsByCustomerId.jpg)
+![image](/images/RewardsById.jpg)
 
 
 Rewards Before Adding new Transaction
 
-![image](/images/CustomerRewardPointsBeforeUpdate.jpg)
+![image](/images/RewardBeforeUpdate.jpg)
 
 Add new transaction
 
-![image](/images/H2DB-TransactionTableInsertRecord.jpg)
+![image](/images/TransactionInsert.jpg)
 
 Rewards After Adding new Transaction
 
-![image](/images/RewardsAfterAddingTransaction.jpg)
+![image](/images/RewardAfterUpdate.jpg)
 
 -------------------------------
 
