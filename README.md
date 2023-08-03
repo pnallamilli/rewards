@@ -32,11 +32,10 @@ Postman/cURL/Browser
 Open terminal & type code
 
 ```
-    git clone https://github.com/navpreet2022/rewards.git
+    git clone https://github.com/pnallamilli/rewards.git
     
     cd rewards
 ````
-![image](/images/ProjectSetup.png)
 
 -------------------------------
 
@@ -45,21 +44,21 @@ mvn clean
 
 mvn test
 
-![image](/images/AppTestCases.png)
+![image](/images/AppTestCases.jpg)
 
 -------------------------------
 
 ### Run Application
 mvn spring-boot:run
 
-![image](/images/AppServerStart.png)
+![image](/images/AppServerStart.jpg)
 
 -------------------------------
 
 ### Host
 **HOST**  - http://localhost:8080
 
-![image](/images/AppRunningStatus.png)
+![image](/images/AppRunningStatus.jpg)
 
 -------------------------------
 
@@ -68,16 +67,16 @@ mvn spring-boot:run
 
 **Credientials** - admin/admin
 
-![image](/images/H2LoginTestConnection.png)
+![image](/images/H2LoginTestConnection.jpg)
 
 Customer Table
 
-![image](/images/H2DB-CustomerTable.png)
+![image](/images/H2DB-CustomerTable.jpg)
 
 
 Transaction Table
 
-![image](/images/H2DB-TransactionTable.png)
+![image](/images/H2DB-TransactionTable.jpg)
 
 -------------------------------
 
@@ -165,48 +164,29 @@ Response:
 
 ### Screenshots
 
-## Application --
-
-Project Structure
-
-![image](/images/AppProjectStructure.png)
-
-
-Project Unit Test
-
-![image](/images/AppTestCases.png)
-
-Project Server Start
-
-![image](/images/AppServerStart.png)
-
--------------------------------
-
 ## Rewards ---
 
 All Rewards
 
-![image](/images/AllRewards.png)
+![image](/images/AllRewards.jpg)
 
 
 Rewards by Customer Id
 
-![image](/images/RewardsByCustomerId.png)
+![image](/images/RewardsByCustomerId.jpg)
 
 
 Rewards Before Adding new Transaction
 
-![image](/images/CustomerRewardPointsBeforeUpdate.png)
+![image](/images/CustomerRewardPointsBeforeUpdate.jpg)
 
 Add new transaction
 
-![image](/images/H2DB-TransactionTable.png)
-
-![image](/images/H2DB-TransactionTableInsertRecord.png)
+![image](/images/H2DB-TransactionTableInsertRecord.jpg)
 
 Rewards After Adding new Transaction
 
-![image](/images/CustomerRewardPointsAfterAddingNewTransaction.png)
+![image](/images/RewardsAfterAddingTransaction.jpg)
 
 -------------------------------
 
@@ -214,15 +194,15 @@ Rewards After Adding new Transaction
 
 All Transaction Records
 
-![image](/images/AllTransactions.png)
+![image](/images/AllTransactions.jpg)
 
 
 Transaction Records By customer Id
 
-![image](/images/TransactionByCustomerId.png)
+![image](/images/TransactionByCustId.jpg)
 
 -------------------------------
 
 ## Bad Request Handling
 
-![image](/images/BadRequest.png)
+![image](/images/BadRequest.jpg)
