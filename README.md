@@ -178,7 +178,7 @@ Rewards by Customer Id
 
 Rewards Before Adding new Transaction
 
-![image](/images/RewardBeforeUpdate.jpg)
+![image](/images/RewardsBeforeUpdate.jpg)
 
 Add new transaction
 
@@ -186,7 +186,7 @@ Add new transaction
 
 Rewards After Adding new Transaction
 
-![image](/images/RewardAfterUpdate.jpg)
+![image](/images/RewardsAfterUpdate.jpg)
 
 -------------------------------
 
@@ -199,7 +199,7 @@ All Transaction Records
 
 Transaction Records By customer Id
 
-![image](/images/TransactionByCustId.jpg)
+![image](/images/TransactionById.jpg)
 
 -------------------------------
 
